@@ -46,7 +46,7 @@ public class Main {
 
         for(int it5 = 1904; it5 < 2096; it5 = it5 + 4) {
 
-            System.out.println(it5 + "год является високосным.");
+            System.out.println(it5 + "год является високосным. :)");
         }
 
         ///Task 6
